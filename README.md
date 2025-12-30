@@ -3,7 +3,7 @@
 你可以找到各章範例專案：
 
 - [第 1 章 Cursor 簡介與安裝](ch01.md)
-- [第 2 章 Cursor 快速入門--以設計猜數字遊戲為例](ch02.md)
+- [第 2 章 Cursor 快速入門：以設計猜數字遊戲為例](ch02.md)
 - [第 3 章 深入 Agents 模式](ch03.md)
 - [第 4 章 用 MCP 讓 Cursor 如虎添](ch04.md)
 - [第 5 章 Cloud Agent 與 Bugbot 在 Cursor 中的協作](ch05.md)
